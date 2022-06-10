@@ -1,0 +1,39 @@
+input {
+  font-size: 15px;
+  margin-left: 5px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(196, 196, 196);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  
+}
+
+.name-bar {
+  width: 130px;
+}
+
+.email-bar {
+  display: block;
+  width: 283px;
+  margin-top: 20px;
+}
+
+.sign-up {
+  background-color: rgb(95, 136, 237);
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 5px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 120px;
+  padding-right: 120px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
